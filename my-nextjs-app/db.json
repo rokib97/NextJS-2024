@@ -1,0 +1,46 @@
+{
+  "shoes": [
+    {
+      "id": 1,
+      "title": "Classic Leather Sneakers",
+      "description": "High-quality leather sneakers with a timeless design, perfect for casual and formal occasions.",
+      "price": 69.99,
+      "image": "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg"
+    },
+    {
+      "id": 2,
+      "title": "Running Shoes",
+      "description": "Lightweight and breathable running shoes designed for comfort and performance on long runs.",
+      "price": 189.99,
+      "image": "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg"
+    },
+    {
+      "id": 3,
+      "title": "Suede Loafers",
+      "description": "Stylish suede loafers with a soft inner lining, ideal for both work and leisure.",
+      "price": 120.11,
+      "image": "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg"
+    },
+    {
+      "id": 4,
+      "title": "High-top Basketball Shoes",
+      "description": "Durable high-top basketball shoes with excellent ankle support and traction.",
+      "price": 110.5,
+      "image": "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg"
+    },
+    {
+      "id": 5,
+      "title": "Waterproof Hiking Boots",
+      "description": "Rugged waterproof hiking boots designed for tough terrains and all-weather conditions.",
+      "price": 150.75,
+      "image": "https://images.pexels.com/photos/1049312/pexels-photo-1049312.jpeg"
+    },
+    {
+      "id": 6,
+      "title": "Slip-on Casual Shoes",
+      "description": "Comfortable slip-on shoes with a flexible sole, perfect for everyday wear.",
+      "price": 45.0,
+      "image": "https://images.pexels.com/photos/1080706/pexels-photo-1080706.jpeg"
+    }
+  ]
+}
