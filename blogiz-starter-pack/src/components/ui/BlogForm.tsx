@@ -26,6 +26,7 @@ const CreateBlogForm = () => {
 
     data.id = JSON.stringify(blogs.length + 1);
     data.total_likes = "100";
+    console.log(data);
     try {
       const res = await createBlog(data);
       console.log(res);
