@@ -1,6 +1,5 @@
-import React from "react";
-import Navbar from "./Navbar";
 import Banner from "./Banner";
+import Navbar from "./Navbar";
 
 const Header = () => {
   return (

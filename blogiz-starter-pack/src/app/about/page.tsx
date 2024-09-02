@@ -1,3 +1,6 @@
+import { rmSync } from "fs";
+import { RSC_HEADER } from "next/dist/client/components/app-router-headers";
+
 const AboutPage = () => {
   return (
     <div className="mt-10">
