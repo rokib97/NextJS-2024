@@ -95,7 +95,8 @@ const LoginPage = () => {
               className="btn btn-circle"
               onClick={() =>
                 signIn("google", {
-                  callbackUrl: "http://localhost:3000/dashboard",
+                  callbackUrl:
+                    "https://nextjs-authentication-starter-pack-eight-pied.vercel.app/dashboard",
                 })
               }
             >
@@ -110,7 +111,8 @@ const LoginPage = () => {
               className="btn btn-circle"
               onClick={() =>
                 signIn("github", {
-                  callbackUrl: "http://localhost:3000/dashboard",
+                  callbackUrl:
+                    "https://nextjs-authentication-starter-pack-eight-pied.vercel.app/dashboard",
                 })
               }
             >
